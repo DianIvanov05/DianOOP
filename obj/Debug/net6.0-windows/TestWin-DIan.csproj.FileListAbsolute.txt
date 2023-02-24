@@ -1,0 +1,17 @@
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\bin\Debug\net6.0-windows\TestWin-DIan.exe
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\bin\Debug\net6.0-windows\TestWin-DIan.deps.json
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\bin\Debug\net6.0-windows\TestWin-DIan.runtimeconfig.json
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\bin\Debug\net6.0-windows\TestWin-DIan.dll
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\bin\Debug\net6.0-windows\TestWin-DIan.pdb
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin_DIan.Form1.resources
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.csproj.GenerateResource.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.AssemblyInfo.cs
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.dll
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\refint\TestWin-DIan.dll
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.pdb
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\TestWin-DIan.genruntimeconfig.cache
+C:\Users\STUDENTS-STEM-10\Desktop\Dian Ivanov 11d\TestWin-DIan\obj\Debug\net6.0-windows\ref\TestWin-DIan.dll
